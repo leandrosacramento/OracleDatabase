@@ -1,2 +1,2 @@
 # OracleDatabase
-Scripts for Oracle Database
+Scripts for Oracle Database.
